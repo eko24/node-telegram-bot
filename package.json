@@ -1,0 +1,23 @@
+{
+  "name": "node-telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eko24/node-telegram-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eko24/node-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/eko24/node-telegram-bot#readme",
+  "devDependencies": {
+    "node-telegram-bot-api": "^0.23.3",
+    "shipit-deploy": "^2.2.0"
+  }
+}
